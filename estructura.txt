@@ -1,0 +1,7 @@
+Presentación:
+
+1-Que es GIT?
+2- Herramientas que usan GIT
+3- Branching- Conceptos(pull-push-commit-clone-add)
+4- Estrategias de Branching(master-hotfices-release-develop-features)
+3- DEMO
